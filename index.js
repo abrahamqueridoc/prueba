@@ -5,4 +5,6 @@ return a + b;
 }
 
 
-console.log("El resultado de la función es: ", myFunc());
+
+
+console.log();
