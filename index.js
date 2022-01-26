@@ -7,4 +7,4 @@ return a + b;
 
 
 
-console.log();
+console.log("El resultado de la funcion es: ", myFunc());
